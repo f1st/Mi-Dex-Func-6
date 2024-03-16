@@ -1,0 +1,1 @@
+Một component ImageUpload để người dùng có thể tải lên hình ảnh:

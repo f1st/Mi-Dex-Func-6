@@ -1,0 +1,28 @@
+{
+  "name": "mi-dex-func-4",
+  "version": "1.0.0",
+  "description": "Hiển thị danh sách lịch sử giao dịch và tình trạng ví:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1st/Mi-Dex-Func-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1st/Mi-Dex-Func-4/issues"
+  },
+  "homepage": "https://github.com/f1st/Mi-Dex-Func-4#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "fest": "^0.12.1",
+    "mi-dex-func-1": "^1.0.0",
+    "mi-dex-func-2": "^1.0.0",
+    "mi-dex-func-3": "^1.0.0"
+  }
+}

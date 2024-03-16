@@ -1,0 +1,27 @@
+{
+  "name": "tul-crypto-fuc-6",
+  "version": "1.0.0",
+  "description": "Sử dụng machine learning hoặc các mô hình dự báo để dự đoán giá của các loại tiền điện tử.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiahKomalaSari/Tul-crypto-fuc-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-6/issues"
+  },
+  "homepage": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-6#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "tul-crypto-fuc-1": "^1.0.0",
+    "tul-crypto-fuc-2": "^1.0.0",
+    "tul-crypto-fuc-3": "^1.0.0",
+    "tul-crypto-fuc-4": "^1.0.0",
+    "tul-crypto-fuc-5": "^1.0.0"
+  }
+}

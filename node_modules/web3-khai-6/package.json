@@ -1,0 +1,31 @@
+{
+  "name": "web3-khai-6",
+  "version": "1.0.0",
+  "description": "Video Player Component: Hiển thị video và các tính năng điều khiển như play, pause, v.v.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabiePe/web3-khai-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RabiePe/web3-khai-6/issues"
+  },
+  "homepage": "https://github.com/RabiePe/web3-khai-6#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "web3-khai-1": "^1.0.0",
+    "web3-khai-2": "^1.0.0",
+    "web3-khai-3": "^1.0.0",
+    "web3-khai-4": "^1.0.0",
+    "web3-khai-5": "^1.0.0"
+  }
+}

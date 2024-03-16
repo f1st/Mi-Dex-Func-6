@@ -1,0 +1,23 @@
+{
+  "name": "hai-error-dialog",
+  "version": "1.0.0",
+  "description": "Một thành phần con của Dialog, được tạo ra để hiển thị thông báo lỗi, thông báo về các lỗi xảy ra trong quá trình thực hiện.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmineak/hai-error-dialog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landmineak/hai-error-dialog/issues"
+  },
+  "homepage": "https://github.com/landmineak/hai-error-dialog#readme",
+  "dependencies": {
+    "hai-confirmation-dialog": "^1.0.1",
+    "hai-dialog": "^1.0.0"
+  }
+}

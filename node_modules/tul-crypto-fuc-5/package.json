@@ -1,0 +1,29 @@
+{
+  "name": "tul-crypto-fuc-5",
+  "version": "1.0.0",
+  "description": "Đoạn mã này sử dụng Web3 và smart contract để tạo NFT mới và phân phối cho người dùng.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiahKomalaSari/Tul-crypto-fuc-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-5/issues"
+  },
+  "homepage": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-5#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tul-crypto-fuc-1": "^1.0.0",
+    "tul-crypto-fuc-2": "^1.0.0",
+    "tul-crypto-fuc-3": "^1.0.0",
+    "tul-crypto-fuc-4": "^1.0.0"
+  }
+}

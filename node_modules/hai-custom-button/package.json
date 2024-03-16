@@ -1,0 +1,25 @@
+{
+  "name": "hai-custom-button",
+  "version": "1.0.0",
+  "description": "Một thành phần độc lập, có thể được sử dụng trong cả Confirmation Dialog và Spreadsheet Dialog để tạo các nút tương tác tùy chỉnh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmineak/hai-custom-button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landmineak/hai-custom-button/issues"
+  },
+  "homepage": "https://github.com/landmineak/hai-custom-button#readme",
+  "dependencies": {
+    "hai-confirmation-dialog": "^1.0.1",
+    "hai-dialog": "^1.0.0",
+    "hai-error-dialog": "^1.0.0",
+    "hai-spreadsheet-dialog": "^1.0.0"
+  }
+}

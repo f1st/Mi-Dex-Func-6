@@ -1,0 +1,24 @@
+{
+  "name": "hai-spreadsheet-dialog",
+  "version": "1.0.0",
+  "description": "Một thành phần con của Dialog, được tạo ra để hiển thị một bảng tính (spreadsheet) hoặc dữ liệu liên quan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmineak/hai-spreadsheet-dialog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landmineak/hai-spreadsheet-dialog/issues"
+  },
+  "homepage": "https://github.com/landmineak/hai-spreadsheet-dialog#readme",
+  "dependencies": {
+    "hai-confirmation-dialog": "^1.0.1",
+    "hai-dialog": "^1.0.0",
+    "hai-error-dialog": "^1.0.0"
+  }
+}

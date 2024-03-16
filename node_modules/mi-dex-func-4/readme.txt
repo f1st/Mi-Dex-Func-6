@@ -1,0 +1,1 @@
+Hiển thị danh sách lịch sử giao dịch và tình trạng ví:

@@ -1,0 +1,27 @@
+{
+  "name": "tul-crypto-fuc-4",
+  "version": "1.0.0",
+  "description": "Đoạn mã này sử dụng smart contract và Web3 để tham gia vào các hoạt động staking và yield farming trên nền tảng DeFi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiahKomalaSari/Tul-crypto-fuc-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-4/issues"
+  },
+  "homepage": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-4#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "tul-crypto-fuc-1": "^1.0.0",
+    "tul-crypto-fuc-2": "^1.0.0",
+    "tul-crypto-fuc-3": "^1.0.0"
+  }
+}

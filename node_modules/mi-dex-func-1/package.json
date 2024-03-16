@@ -1,0 +1,29 @@
+{
+  "name": "mi-dex-func-1",
+  "version": "1.0.0",
+  "description": "Kết nối với blockchain và tạo smart contract interface:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1st/Mi-Dex-Func-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1st/Mi-Dex-Func-1/issues"
+  },
+  "homepage": "https://github.com/f1st/Mi-Dex-Func-1#readme",
+  "dependencies": {
+    "fest": "^0.12.1",
+    "tul-crypto-fuc-10": "^1.0.0",
+    "tul-crypto-fuc-4": "^1.0.0",
+    "tul-crypto-fuc-5": "^1.0.0",
+    "tul-crypto-fuc-6": "^1.0.0",
+    "tul-crypto-fuc-7": "^1.0.0",
+    "tul-crypto-fuc-8": "^1.0.0",
+    "tul-crypto-fuc-9": "^1.0.0"
+  }
+}

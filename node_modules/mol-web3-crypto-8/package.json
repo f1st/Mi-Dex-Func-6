@@ -1,0 +1,29 @@
+{
+  "name": "mol-web3-crypto-8",
+  "version": "1.0.0",
+  "description": "Sử dụng WalletConnect để kết nối ví crypto của người dùng với ứng dụng của bạn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemnyeleZX/Mol-web3-crypto-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemnyeleZX/Mol-web3-crypto-8/issues"
+  },
+  "homepage": "https://github.com/wemnyeleZX/Mol-web3-crypto-8#readme",
+  "dependencies": {
+    "mol-web3-crypto-1": "^1.0.0",
+    "mol-web3-crypto-2": "^1.0.0",
+    "mol-web3-crypto-3": "^1.0.0",
+    "mol-web3-crypto-4": "^1.0.0",
+    "mol-web3-crypto-5": "^1.0.0",
+    "mol-web3-crypto-6": "^1.0.0",
+    "mol-web3-crypto-7": "^1.0.0",
+    "prop-types": "^15.8.1"
+  }
+}

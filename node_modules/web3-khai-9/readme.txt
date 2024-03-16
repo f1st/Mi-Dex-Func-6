@@ -1,0 +1,1 @@
+WebSocket Component: Kết nối và giao tiếp với server thông qua WebSocket.

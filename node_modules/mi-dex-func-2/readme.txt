@@ -1,0 +1,1 @@
+Hiển thị danh sách các cặp giao dịch và thông tin thị trường:

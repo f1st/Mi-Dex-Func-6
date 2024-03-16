@@ -1,0 +1,1 @@
+Một component Table để hiển thị dữ liệu theo dạng bảng:

@@ -1,0 +1,1 @@
+Drag and Drop Component: Cho phép người dùng kéo và thả các thành phần.

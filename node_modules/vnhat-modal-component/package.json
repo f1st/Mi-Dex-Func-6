@@ -1,0 +1,28 @@
+{
+  "name": "vnhat-modal-component",
+  "version": "1.0.0",
+  "description": "Modal Component tạo ra một cửa sổ modal để hiển thị thông tin hoặc yêu cầu người dùng thực hiện một hành động, sử dụng thư viện Modal của Material-UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zibuthe7j/vnhat-modal-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j/vnhat-modal-component/issues"
+  },
+  "homepage": "https://github.com/zibuthe7j/vnhat-modal-component#readme",
+  "dependencies": {
+    "hai-confirmation-dialog": "^1.0.1",
+    "hai-custom-button": "^1.0.0",
+    "hai-dialog": "^1.0.0",
+    "hai-error-dialog": "^1.0.0",
+    "hai-spreadsheet-dialog": "^1.0.0",
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.0"
+  }
+}

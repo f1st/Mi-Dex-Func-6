@@ -1,0 +1,25 @@
+{
+  "name": "vnhat-alert-component",
+  "version": "1.0.0",
+  "description": "Alert Component hiển thị một tin nhắn cảnh báo cho người dùng với một loạt các loại thông báo, sử dụng thư viện Snackbar của Material-UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryniaube/vnhat-alert-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryniaube/vnhat-alert-component/issues"
+  },
+  "homepage": "https://github.com/ryniaube/vnhat-alert-component#readme",
+  "dependencies": {
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-dropdown-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.0",
+    "vnhat-modal-component": "^1.0.0"
+  }
+}

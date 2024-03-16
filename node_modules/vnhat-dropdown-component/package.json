@@ -1,0 +1,24 @@
+{
+  "name": "vnhat-dropdown-component",
+  "version": "1.0.0",
+  "description": "Dropdown Component tạo ra một danh sách thả xuống để người dùng chọn một lựa chọn từ danh sách, sử dụng thư viện Select của Material-UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zibuthe7j/vnhat-dropdown-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j/vnhat-dropdown-component/issues"
+  },
+  "homepage": "https://github.com/zibuthe7j/vnhat-dropdown-component#readme",
+  "dependencies": {
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.0",
+    "vnhat-modal-component": "^1.0.0"
+  }
+}

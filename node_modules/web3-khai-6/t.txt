@@ -1,0 +1,1 @@
+Video Player Component: Hiển thị video và các tính năng điều khiển như play, pause, v.v.

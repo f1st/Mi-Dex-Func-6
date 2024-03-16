@@ -1,0 +1,35 @@
+{
+  "name": "web3-khai-3",
+  "version": "1.0.0",
+  "description": "Drag and Drop Component: Cho phép người dùng kéo và thả các thành phần.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabiePe/web3-khai-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RabiePe/web3-khai-3/issues"
+  },
+  "homepage": "https://github.com/RabiePe/web3-khai-3#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "sky-app-function-10": "^1.0.0",
+    "sky-app-function-2": "^1.0.0",
+    "sky-app-function-3": "^1.0.0",
+    "sky-app-function-4": "^1.0.0",
+    "sky-app-function-5": "^1.0.0",
+    "sky-app-function-6": "^1.0.0",
+    "sky-app-function-7": "^1.0.0",
+    "sky-app-function-8": "^1.0.0",
+    "sky-app-function-9": "^1.0.0",
+    "web3-khai-1": "^1.0.0",
+    "web3-khai-2": "^1.0.0"
+  }
+}

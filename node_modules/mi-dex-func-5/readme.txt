@@ -1,0 +1,1 @@
+Tính toán và hiển thị thông tin về lợi nhuận và tỷ lệ chênh lệch giá:

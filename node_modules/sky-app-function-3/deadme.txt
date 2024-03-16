@@ -1,0 +1,1 @@
+Một component Loading để hiển thị trạng thái đang tải:

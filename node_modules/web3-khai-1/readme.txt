@@ -1,0 +1,1 @@
+Carousel Component: Component hiển thị slideshow ảnh hoặc nội dung đa phương tiện.

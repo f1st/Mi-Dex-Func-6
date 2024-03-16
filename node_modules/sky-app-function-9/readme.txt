@@ -1,0 +1,1 @@
+Một component Form để hiển thị và xử lý các trường đầu vào của người dùng:

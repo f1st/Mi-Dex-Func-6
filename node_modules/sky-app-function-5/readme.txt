@@ -1,0 +1,1 @@
+Một component Modal để hiển thị nội dung trong một cửa sổ popup:

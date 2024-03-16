@@ -1,0 +1,27 @@
+{
+  "name": "vnhat-button-component",
+  "version": "1.0.0",
+  "description": "Button Component tạo ra một nút mà người dùng có thể click để thực hiện một hành động nhất định, có thêm hiệu ứng.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zibuthe7j/vnhat-button-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j/vnhat-button-component/issues"
+  },
+  "homepage": "https://github.com/zibuthe7j/vnhat-button-component#readme",
+  "dependencies": {
+    "hai-confirmation-dialog": "^1.0.1",
+    "hai-custom-button": "^1.0.0",
+    "hai-dialog": "^1.0.0",
+    "hai-error-dialog": "^1.0.0",
+    "hai-spreadsheet-dialog": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.0"
+  }
+}

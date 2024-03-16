@@ -1,0 +1,41 @@
+{
+  "name": "sky-app-function-8",
+  "version": "1.0.0",
+  "description": "Một component Stepper để điều hướng qua các bước trong quy trình",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptkhanh94/sky-app-function-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptkhanh94/sky-app-function-8/issues"
+  },
+  "homepage": "https://github.com/ptkhanh94/sky-app-function-8#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "hai-custom-button": "^1.0.0",
+    "hai-error-dialog": "^1.0.0",
+    "hai-spreadsheet-dialog": "^1.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sky-app-function-2": "^1.0.0",
+    "sky-app-function-3": "^1.0.0",
+    "sky-app-function-4": "^1.0.0",
+    "sky-app-function-5": "^1.0.0",
+    "sky-app-function-6": "^1.0.0",
+    "sky-app-function-7": "^1.0.0",
+    "vnhat-alert-component": "^1.0.0",
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-dropdown-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.1",
+    "vnhat-modal-component": "^1.0.0"
+  }
+}

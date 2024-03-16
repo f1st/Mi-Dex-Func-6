@@ -1,0 +1,32 @@
+{
+  "name": "sky-app-function-2",
+  "version": "1.0.0",
+  "description": "Một component Toast để hiển thị thông báo tạm thời",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptkhanh94/sky-app-function-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptkhanh94/sky-app-function-2/issues"
+  },
+  "homepage": "https://github.com/ptkhanh94/sky-app-function-2#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vnhat-alert-component": "^1.0.0",
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-dropdown-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.1",
+    "vnhat-modal-component": "^1.0.0"
+  }
+}

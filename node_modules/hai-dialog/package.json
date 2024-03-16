@@ -1,0 +1,23 @@
+{
+  "name": "hai-dialog",
+  "version": "1.0.0",
+  "description": "Đây sẽ là thành phần chính, có khả năng hiển thị thông báo và các nút hoặc chức năng tương tác.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmineak/Hai-dialog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landmineak/Hai-dialog/issues"
+  },
+  "homepage": "https://github.com/landmineak/Hai-dialog#readme",
+  "dependencies": {
+    "give-advice-10th": "^1.0.3",
+    "remind-works-8th": "^1.0.2"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "tul-crypto-fuc-9",
+  "version": "1.0.0",
+  "description": "Sử dụng các cầu nối như Chainlink hoặc AnySwap để tích hợp việc chuyển đổi và giao tiếp giữa các blockchain khác nhau.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiahKomalaSari/Tul-crypto-fuc-9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-9/issues"
+  },
+  "homepage": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-9#readme",
+  "dependencies": {
+    "fest": "^0.12.1",
+    "tul-crypto-fuc-1": "^1.0.0",
+    "tul-crypto-fuc-2": "^1.0.0",
+    "tul-crypto-fuc-3": "^1.0.0",
+    "tul-crypto-fuc-4": "^1.0.0",
+    "tul-crypto-fuc-5": "^1.0.0",
+    "tul-crypto-fuc-6": "^1.0.0",
+    "tul-crypto-fuc-7": "^1.0.0",
+    "tul-crypto-fuc-8": "^1.0.0"
+  }
+}

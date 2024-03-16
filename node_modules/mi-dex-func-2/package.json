@@ -1,0 +1,25 @@
+{
+  "name": "mi-dex-func-2",
+  "version": "1.0.0",
+  "description": "Hiển thị danh sách các cặp giao dịch và thông tin thị trường:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1st/Mi-Dex-Func-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1st/Mi-Dex-Func-2/issues"
+  },
+  "homepage": "https://github.com/f1st/Mi-Dex-Func-2#readme",
+  "dependencies": {
+    "mi-dex-func-1": "^1.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -1,0 +1,2 @@
+Decentralized Autonomous Organization (DAO) Interaction:
+Đoạn mã này sử dụng Web3 để tương tác với một DAO trên blockchain Ethereum, cho phép người dùng tham gia bỏ phiếu và quản lý quyết định của DAO.

@@ -1,0 +1,27 @@
+{
+  "name": "tul-crypto-fuc-7",
+  "version": "1.0.0",
+  "description": "Sử dụng các dịch vụ như Uniswap hoặc PancakeSwap để tích hợp chức năng hoán đổi token trong ứng dụng của bạn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiahKomalaSari/Tul-crypto-fuc-7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-7/issues"
+  },
+  "homepage": "https://github.com/DiahKomalaSari/Tul-crypto-fuc-7#readme",
+  "dependencies": {
+    "tul-crypto-fuc-1": "^1.0.0",
+    "tul-crypto-fuc-2": "^1.0.0",
+    "tul-crypto-fuc-3": "^1.0.0",
+    "tul-crypto-fuc-4": "^1.0.0",
+    "tul-crypto-fuc-5": "^1.0.0",
+    "tul-crypto-fuc-6": "^1.0.0"
+  }
+}

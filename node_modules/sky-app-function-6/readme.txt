@@ -1,0 +1,1 @@
+Một component SelectBox để chọn từ một danh sách các mục:

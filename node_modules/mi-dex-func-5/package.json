@@ -1,0 +1,26 @@
+{
+  "name": "mi-dex-func-5",
+  "version": "1.0.0",
+  "description": "Tính toán và hiển thị thông tin về lợi nhuận và tỷ lệ chênh lệch giá:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1st/Mi-Dex-Func-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1st/Mi-Dex-Func-5/issues"
+  },
+  "homepage": "https://github.com/f1st/Mi-Dex-Func-5#readme",
+  "dependencies": {
+    "fest": "^0.12.1",
+    "mi-dex-func-1": "^1.0.0",
+    "mi-dex-func-2": "^1.0.0",
+    "mi-dex-func-3": "^1.0.0",
+    "mi-dex-func-4": "^1.0.0"
+  }
+}
