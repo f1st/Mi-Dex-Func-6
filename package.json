@@ -1,6 +1,6 @@
 {
   "name": "mi-dex-func-6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quản lý tài khoản và giao dịch đa chữ ký:",
   "main": "index.js",
   "scripts": {
