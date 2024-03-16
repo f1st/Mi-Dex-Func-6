@@ -19,9 +19,12 @@
   "dependencies": {
     "fest": "^0.12.1",
     "mi-dex-func-1": "^1.0.0",
+    "mi-dex-func-10": "^1.0.0",
     "mi-dex-func-2": "^1.0.0",
     "mi-dex-func-3": "^1.0.0",
     "mi-dex-func-4": "^1.0.0",
-    "mi-dex-func-5": "^1.0.0"
+    "mi-dex-func-5": "^1.0.0",
+    "mi-dex-func-8": "^1.0.0",
+    "mi-dex-func-9": "^1.0.0"
   }
 }
